@@ -16,6 +16,7 @@ public class EncapSample {
 		int  incentive=1000;
 		salary=incentive+salary;
 		System.out.println(salary);
+		System.out.println("git update");
 	}
 
 }
