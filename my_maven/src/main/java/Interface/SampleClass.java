@@ -19,7 +19,8 @@ public void dispaly()
 		s.print();
 		s.add();
 		s.dispaly();*/
-		Interfacesample i=new SampleClass();
+		//Interfacesample i=new SampleClass();
+		SampleClass i=new SampleClass();
 		i.add();
 		i.dispaly();
 		System.out.println(i.b);
